@@ -1,0 +1,23 @@
+Notas Proyecto curso
+
+Components
+	agregar-editar-mascota
+	listado-mascotas
+	ver-mascota
+intarfaces
+	mascota
+services
+	mascota
+shared
+	
+
+
+dudas paradigmas
+
+
+en una orderedcollection temporal de un tipo puedo aplicar los mismos metodos que a la orderedCollection original
+
+como accedo a la ordered collection que este en una clase desde otra clase
+
+como hago para asignar una objeto que puede estar en una coleccion de una clase A a una clase B (seria por ejemplo A asignarObjeto: elObjeto)
+

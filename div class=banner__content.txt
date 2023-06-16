@@ -1,0 +1,27 @@
+<div class="banner__content">
+      <section class="group today-special">
+        <h2 class="group__title">Servicios</h2>
+        <div class="container containerBanner">
+          <div class="column column--50-25">
+            <img src="./assets/img/DSC_0081 a.jpg" alt="" class="today-special__img">
+            <div class="today-special__title">Deportología</div>
+            <div class="today-special__price">99</div>
+          </div>
+          <div class="column column--50-25">
+            <img src="./assets/img/fruits-1114060_1280.jpg" alt="" class="today-special__img">
+            <div class="today-special__title">Nutrición</div>
+            <div class="today-special__price">99</div>
+          </div>
+          <div class="column column--50-25">
+            <img src="./assets/img/182523_4496521367266_1016771699_n (1).jpg" alt="" class="today-special__img">
+            <div class="today-special__title">Kinesiología y Rehabilitación</div>
+            <div class="today-special__price">99</div>
+          </div>
+          <div class="column column--50-25">
+            <img src="./assets/img/486357_381612625249456_1453275968_n.jpg" alt="" class="today-special__img">
+            <div class="today-special__title">Entrenamiento</div>
+            <div class="today-special__price">99</div>
+          </div>
+        </div>
+      </section>
+    </div>
